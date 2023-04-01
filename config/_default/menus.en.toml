@@ -1,0 +1,90 @@
+# main menu
+[[main]]
+name = "Домашня"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Про нас"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Брендування транспорту"
+url = "transport/"
+weight = 3
+
+[[main]]
+name = "Вироби з акрилу"
+url = "acrilic/"
+weight = 4
+
+[[main]]
+name = "Зовнішня реклама"
+url = "out-ad/"
+weight = 5
+
+[[main]]
+name = "Виставкові макети"
+url = "exhibit/"
+weight = 6
+
+#[[main]]
+#name = "Блог"
+#url = "blog/"
+#weight = 2
+#
+#[[main]]
+#name = "Ціни"
+#url = "pricing/"
+#weight = 3
+
+[[main]]
+name = "Контакти"
+url = "contact/"
+weight = 7
+#
+#[[main]]
+#name = "FAQ"
+#url = "faq/"
+#weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "About Us"
+url = "#"
+
+[[footer_left]]
+name = "Quick Start"
+url = "#"
+
+[[footer_left]]
+name = "Pricing"
+url = "pricing/"
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Pricing"
+url = "pricing/"
+
+[[footer_middle]]
+name = "Platform"
+url = "#"
+
+[[footer_middle]]
+name = "Features"
+url = "#"
+
+# footer menu right
+[[footer_right]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+
+[[footer_right]]
+name = "FAQ"
+url = "faq/"
